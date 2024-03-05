@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("master1 merge");
         System.out.println("hot-fix1 merge");
         System.out.println("push first github");
+         System.out.println("pull first idea");
     }
 }
